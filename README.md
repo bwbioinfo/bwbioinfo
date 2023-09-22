@@ -71,7 +71,8 @@ Beyond my technical expertise, I have developed my ability to communicate scient
     </a>
     <a href="https://www.stackoverflow.com/users/2320946/bwbioinfo" target="_blank" rel="noreferrer">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
             <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
         </picture>
@@ -114,12 +115,6 @@ Beyond my technical expertise, I have developed my ability to communicate scient
  </tr>
 </table>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 
 ### Support Me
