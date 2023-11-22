@@ -4,7 +4,7 @@
 
 - 🌍  I'm based in Montreal, Canada
 - 🖥️  See my portfolio at [The Bewildered Bioinformatician](http://bwbioinfo.com)
-- 🚀  I'm currently working on [MiniLIMS](http://github.com/bwbioinfo/nanolims)
+- 🚀  I'm currently working on [NanoLIMS](http://github.com/bwbioinfo/nanolims)
 - 🧠  I'm learning Rust, C++
 
 ### About Me
