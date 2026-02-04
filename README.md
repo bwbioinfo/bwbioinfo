@@ -4,8 +4,7 @@
 
 - 🌍  I'm based in Montreal, Canada
 - 🖥️  See my portfolio at [The Bewildered Bioinformatician](http://bwbioinfo.com)
-- 🚀  I'm currently working on [NanoLIMS](http://github.com/bwbioinfo/nanolims)
-- 🧠  I'm learning Rust, C++
+- 🧠  I'm learning Rust
 
 ### About Me
 
@@ -15,9 +14,7 @@ My proficiency in applying a  range of computational methods and tools allows me
 
 Beyond my technical expertise, I have developed my ability to communicate scientific concepts to diverse audiences including verbally, graphically and using interactive tools. This skill has enabled me to establish meaningful collaborations with members of my team and external stakeholders. I firmly believe that open and clear communication is a key to driving impactful discoveries.
 
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
+### Some things I'm used to
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
@@ -111,4 +108,3 @@ Beyond my technical expertise, I have developed my ability to communicate scient
     alt="Buy me a coffee"
   />
 </a>
-
