@@ -15,85 +15,94 @@ My proficiency in applying a  range of computational methods and tools allows me
 
 Beyond my technical expertise, I have developed my ability to communicate scientific concepts to diverse audiences including verbally, graphically and using interactive tools. This skill has enabled me to establish meaningful collaborations with members of my team and external stakeholders. I firmly believe that open and clear communication is a key to driving impactful discoveries.
 
-### Skills
+<h1 align="center">Hey 👋What's Up?</h1>
 
-[<img alt="Python" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" />](https://www.python.org/)
-[<img alt="rlang" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" />](https://www.r-project.org/)
-[<img alt="JavaScript" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" />](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<img alt="Git" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" />](https://git-scm.com/)
-[<img alt="React" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" />](https://reactjs.org/)
-[<img alt="NextJs" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" />](https://nextjs.org/docs)
-[<img alt="NodeJS" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" />](https://nodejs.org/en/)
-[<img alt="MongoDB" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" />](https://www.mongodb.com/)
-[<img alt="MySQL" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" />](https://www.mysql.com/)
-[<img alt="Django" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" />](https://www.djangoproject.com/)
-[<img alt="Docker" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" />](https://www.docker.com/)
-[<img alt="Linux" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" />](https://www.linux.org)
-[<img alt="MacOS" width="36" height="36" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" />](https://apple.com)
+###
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="60" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="60" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="60" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" height="60" alt="inkscape logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="60" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="60" alt="julia logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="60" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="60" alt="markdown logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="60" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" height="60" alt="packer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="60" alt="r logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="60" alt="redhat logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="60" alt="rstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="60" alt="selenium logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="60" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="60" alt="terraform logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="60" alt="vagrant logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="60" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hugo/hugo-original.svg" height="60" alt="hugo logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/podman/podman-original.svg" height="60" alt="podman logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+</div>
 
-### Socials
+### Activity
 
-<p align="left">
-    <a href="https://www.github.com/bwbioinfo" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <a href="https://www.stackoverflow.com/users/2320946/bwbioinfo" target="_blank" rel="noreferrer">
-        <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" />
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
-        </picture>
-    </a>
-</p>
-
-### Badges
-
-<table border="0px">
- <tr>
-    <td><b style="font-size:30px">My GitHub Stats</b></td>
-    <td><b style="font-size:30px">Top Repositories</b></td>
- </tr>
- <tr>
-    <td width=40%>
-        <!-- <a href="https://www.github.com/bwbioinfo">
-            <img src="https://github-readme-stats.vercel.app/api?username=bwbioinfo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bwbioinfo's GitHub stats" />
-        </a>
-        <a href="https://www.github.com/bwbioinfo">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=bwbioinfo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-        </a>
-        <a href="https://www.github.com/bwbioinfo">
-            <img src="https://github-readme-activity-graph.cyclic.app/graph?username=bwbioinfo&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
-        </a> -->
-        <a href="https://github.com/bwbioinfo" align="left">
-            <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwbioinfo&langs_count=10&title_color=000000&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-        </a>
-    </td>
-    <td width=50%>
-        <a href="https://github.com/bwbioinfo/minilims" align="center">
-            <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=bwbioinfo&repo=minilims&title_color=000000&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true&locale=en" />
-        </a>
-        <a href="https://github.com/bwbioinfo/KEGGAPI.jl" align="center">
-            <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=bwbioinfo&repo=KEGGAPI.jl&title_color=000000&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true&locale=en" />
-        </a>
-        <a href="https://github.com/bwbioinfo/docker-cwl-template" align="center">
-            <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=bwbioinfo&repo=docker-cwl-template&title_color=000000&text_color=ffffff&icon_color=f97316&bg_color=581c87&hide_border=true&locale=en" />
-        </a>
-    </td>
- </tr>
-</table>
-
-<br />
+<img src="https://raw.githubusercontent.com/bwbioinfo/bwbioinfo/output/snake.svg" alt="Snake animation" />
 
 ### Support Me
-<p>
-<a href="https://www.buymeacoffee.com/bwbioinfo">
-    <img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&amp;emoji=&amp;slug=bwbioinfo&amp;button_colour=BD5FFF&amp;font_colour=ffffff&amp;font_family=Cookie&amp;outline_colour=000000&amp;coffee_colour=FFDD00">
-</a>
-</p>
-</ul>
+
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="bwbioinfo" data-color="#BD5FFF" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
